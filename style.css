@@ -9,7 +9,7 @@ body{
     background-size: 100% 100%;
     color: white;
 }
-h1{
+h2{
     margin-top:5%;
     text-align: center;
     text-decoration: underline;
@@ -17,7 +17,7 @@ h1{
 }
 .boxes{
     height:20vh;
-    width:95%;
+    width:92%;
     top: 40vh;
     position:relative;
     margin:0 auto;
@@ -31,7 +31,7 @@ h1{
     border-radius:0.5rem;
     border:2px solid whitesmoke;
     height:70%;
-    width:10.2%;
+    width:9.6%;
     text-align: center;
     background-color: #FF3CAC;
     background: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
@@ -39,12 +39,12 @@ h1{
 }
 kbd{
     display:block;
-    font-size:40px;
+    font-size:35px;
     text-decoration: underline;
 
 }
 span{
-    font-size:25px;
+    font-size:15px;
     color:chartreuse;
 }
 
@@ -53,3 +53,4 @@ span{
     background-color:grey;
     transform:scale(1.2);
 }
+
